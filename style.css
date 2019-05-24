@@ -1,0 +1,85 @@
+body {
+
+
+background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+font-family: arial;
+text-align: center;
+}
+
+h1 {
+  color: #b31e6f;
+}
+
+h2 {
+  color: gold;
+}
+
+p {
+  font-size: 24px;
+  font-family: arial;
+}
+
+h3 {
+  text-align: left;
+}
+
+ul {
+  font-size: 24px;
+  text-align: left;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.color-red {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  color: white;
+  background: red;
+}
+
+.btn:hover {
+  background: green;
+}
+
+.cadre {
+  background: white;
+  border: 5px solid black;
+  margin: 100px;
+  padding: 50px;
+  border-radius: 30px;
+}
+
+.avatar {
+ width: 300px;
+ height: 300px;
+ object-fit: cover;
+ border-radius: 50%;
+ box-shadow: 5px 5px 10px grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
